@@ -1,0 +1,74 @@
+{
+  "tips": [
+    {
+      "id": "tip-consistency",
+      "title_es": "La consistencia es la clave",
+      "title_en": "Consistency is key",
+      "body_es": "Los primeros 3 días son los más difíciles. Los niños necesitan repetición para que la rutina se convierta en hábito. No te rindas si la primera semana no sale perfecta — eso es completamente normal.",
+      "body_en": "The first 3 days are the hardest. Kids need repetition for a routine to become a habit. Don't give up if the first week isn't perfect — that's completely normal."
+    },
+    {
+      "id": "tip-visuals",
+      "title_es": "Las imágenes funcionan mejor",
+      "title_en": "Visuals work better",
+      "body_es": "Los niños responden mejor a imágenes que a palabras. Agrega fotos de tu hijo haciendo cada paso — hace que la rutina sea suya y la siguen más fácil.",
+      "body_en": "Kids respond better to pictures than words. Add photos of your child doing each step — it makes the routine feel like theirs and they follow it more willingly."
+    },
+    {
+      "id": "tip-celebrate",
+      "title_es": "Celebra los pequeños logros",
+      "title_en": "Celebrate small wins",
+      "body_es": "No esperes perfección. Si tu hijo terminó 3 de 5 pasos hoy, eso es un logro. Celebra el progreso — no la perfección.",
+      "body_en": "Don't wait for perfection. If your child finished 3 out of 5 steps today, that's a win. Celebrate progress, not perfection."
+    },
+    {
+      "id": "tip-same-time",
+      "title_es": "Misma hora, todos los días",
+      "title_en": "Same time, every day",
+      "body_es": "Las rutinas funcionan mejor cuando se hacen a la misma hora. El cuerpo de tu hijo aprende a anticipar — y eso hace todo más fácil con el tiempo.",
+      "body_en": "Routines work best when done at the same time. Your child's body learns to anticipate — and that makes everything easier over time."
+    },
+    {
+      "id": "tip-ownership",
+      "title_es": "Hazla suya",
+      "title_en": "Make it theirs",
+      "body_es": "Deja que tu hijo elija los emojis o fotos para sus pasos. Cuando sienten que la rutina es \"de ellos\", la siguen con más ganas y menos resistencia.",
+      "body_en": "Let your child pick the emojis or photos for their steps. When they feel the routine is \"theirs,\" they follow it with more enthusiasm and less resistance."
+    },
+    {
+      "id": "tip-screen-trick",
+      "title_es": "El truco que más funciona",
+      "title_en": "The trick that works best",
+      "body_es": "Cuando tu hijo se resista, señala la pantalla y di: \"la rutina dice que sigue esto, no yo.\" Les da independencia y te quita el papel de villana.",
+      "body_en": "When your child resists, point to the screen and say: \"the routine says this is next, not me.\" It gives them ownership and takes you out of the bad-guy role."
+    },
+    {
+      "id": "tip-patience",
+      "title_es": "Dale tiempo al proceso",
+      "title_en": "Give the process time",
+      "body_es": "Los hábitos toman entre 21 y 66 días para asentarse. Ya empezaste — eso es lo más difícil. Sigue un día a la vez.",
+      "body_en": "Habits take 21–66 days to stick. You already started — that's the hardest part. Keep going one day at a time."
+    },
+    {
+      "id": "tip-one-song",
+      "title_es": "La regla de la canción",
+      "title_en": "The one-song rule",
+      "body_es": "Pon una canción animada y reta a tu hijo a terminar una sola tarea antes de que se acabe. Convierte una exigencia aburrida en un juego de alta energía sin necesidad de regañar.",
+      "body_en": "Pick an upbeat song and challenge your child to finish a single task before the music stops. It turns a boring demand into a high-energy game and keeps them focused without any nagging."
+    },
+    {
+      "id": "tip-role-play",
+      "title_es": "El juego de roles",
+      "title_en": "Make it a role play",
+      "body_es": "El juego de roles hace las tareas más llevaderas. Si tu hijo no quiere que le peinen, invítalo a la \"peluquería\". Un pequeño cambio de escena transforma la resistencia en emoción.",
+      "body_en": "Role play makes tasks more enjoyable. If your child refuses to get their hair done, invite them to the 'salon'. A small change of scene turns resistance into excitement."
+    },
+    {
+      "id": "tip-connection",
+      "title_es": "Conexión, no rendimiento",
+      "title_en": "Connection, not performance",
+      "body_es": "Puedes preocuparte por los sentimientos de tu hijo y aun así mantener límites. El trabajo de un padre es sostener la conexión y la seguridad. Tus límites también importan. ❤️",
+      "body_en": "You can care about your child's feelings and still hold firm boundaries. A parent's job is to support connection and safety. Your limits matter too. ❤️"
+    }
+  ]
+}
