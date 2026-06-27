@@ -1,0 +1,35 @@
+{
+  "notifications": [
+    {
+      "id": "welcome-launch",
+      "type": "message",
+      "icon": "🎉",
+      "title_es": "¡Bienvenida a A Pasitos!",
+      "title_en": "Welcome to Tiny Steps!",
+      "body_es": "Gracias por estar aquí desde el principio. Esta app la construí pensando en Valeria, mi hija, y en todas las mañanas caóticas que seguramente tú también conoces. Espero que A Pasitos haga tus días un poco más tranquilos. — Cristal",
+      "body_en": "Thanks for being here from the start. I built this app thinking about my daughter Valeria, and all the chaotic mornings I know you recognize too. I hope Tiny Steps makes your days a little calmer. — Cristal",
+      "date": "2026-06-26",
+      "pinned": true
+    },
+    {
+      "id": "tip-consistency",
+      "type": "tip",
+      "icon": "💡",
+      "title_es": "Tip de la semana",
+      "title_en": "Tip of the week",
+      "body_es": "Los primeros 3 días son los más difíciles. Los niños necesitan repetición para que la rutina se convierta en hábito. No te rindas si la primera semana no sale perfecta — eso es completamente normal.",
+      "body_en": "The first 3 days are the hardest. Kids need repetition for a routine to become a habit. Don't give up if the first week isn't perfect — that's completely normal.",
+      "date": "2026-06-20"
+    },
+    {
+      "id": "feature-custom-photos",
+      "type": "feature",
+      "icon": "📷",
+      "title_es": "¡Prueba las fotos personalizadas!",
+      "title_en": "Try custom photos!",
+      "body_es": "¿Sabías que puedes usar fotos de tu hijo para cada paso? Los niños responden mejor cuando se ven a sí mismos en la rutina. Al agregar un paso, elige '📷 Usar mi propia foto' como primera opción.",
+      "body_en": "Did you know you can use photos of your child for each step? Kids respond better when they see themselves in the routine. When adding a step, choose '📷 Use my own photo' as the first option.",
+      "date": "2026-06-15"
+    }
+  ]
+}
