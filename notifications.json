@@ -30,6 +30,16 @@
       "body_es": "¿Sabías que puedes usar fotos de tu hijo para cada paso? Los niños responden mejor cuando se ven a sí mismos en la rutina. Al agregar un paso, elige '📷 Usar mi propia foto' como primera opción.",
       "body_en": "Did you know you can use photos of your child for each step? Kids respond better when they see themselves in the routine. When adding a step, choose '📷 Use my own photo' as the first option.",
       "date": "2026-06-15"
+    },
+    {
+      "id": "v1.0.3-release",
+      "type": "update",
+      "icon": "🆕",
+      "title_es": "¡Nueva actualización disponible!",
+      "title_en": "New update available!",
+      "body_es": "Ya puedes actualizar A Pasitos en la App Store o Google Play. Esta versión trae nuevos íconos ilustrados de Coco para tus pasos y rutinas, una banana que avanza en la barra de progreso al completar la rutina, y varias mejoras y correcciones en toda la app. ¡Actualiza para verlo!",
+      "body_en": "You can now update Tiny Steps on the App Store or Google Play. This version brings new illustrated Coco icons for your steps and routines, a banana that moves along the progress bar as you complete your routine, and several improvements and fixes throughout the app. Update to check it out!",
+      "date": "2026-09-19"
     }
   ]
 }
